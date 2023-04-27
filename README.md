@@ -6,6 +6,9 @@ react query, zustand, and TypeScript. The app follows the atomic design pattern 
 ## Screen Shot
 
 ![sreen-1: ](./1.png)
+![sreen-1: ](./2.png)
+![sreen-1: ](./3.png)
+![sreen-1: ](./4.png)
 
 # About
 
